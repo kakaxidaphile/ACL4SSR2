@@ -1,1 +1,11 @@
 DOMAIN-SUFFIX,kkgithub.com
+DOMAIN-SUFFIX,clash.razord.top
+DOMAIN-SUFFIX,haishan.me
+DOMAIN-SUFFIX,subhd.tv
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,upwork.com
+DOMAIN-SUFFIX,fiverr.com
+DOMAIN-KEYWORD,jianshu.com
+DOMAIN-KEYWORD,upwork.com
+DOMAIN-SUFFIX,zimuku.pw
+IP-CIDR,192.168.2.0/16,no-resolve
