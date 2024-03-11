@@ -136,7 +136,7 @@ dns:
 
 # Clash for Windows
 # Proxies module latency test settings
-cfw-latency-timeout: 2000
+cfw-latency-timeout: 2500
 cfw-latency-url: https://speedtest.galgamer.eu.org/200m.png
 
 # 混合配置（mixin）
