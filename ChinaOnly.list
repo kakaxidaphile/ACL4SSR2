@@ -5,9 +5,11 @@ DOMAIN-SUFFIX,subhd.tv
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,upwork.com
 DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,fiverr.com
 DOMAIN-SUFFIX,cloud.unity3d.com
 DOMAIN-KEYWORD,jianshu.com
 DOMAIN-KEYWORD,upwork
+DOMAIN-KEYWORD,fiverr
 DOMAIN-KEYWORD,razord.top
 DOMAIN-KEYWORD,haishan.me
 DOMAIN-SUFFIX,zimuku.pw
@@ -18,4 +20,3 @@ NETWORK,udp,DIRECT
 DSCP,4,DIRECT
 DOMAIN-KEYWORD,aria2,REJECT
 DOMAIN-KEYWORD,alist,DIRECT,no-resolve
-IP-CIDR,192.168.2.0/16,no-resolve
